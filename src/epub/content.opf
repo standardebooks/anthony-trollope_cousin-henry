@@ -38,14 +38,14 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008113447</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Indecision over the discovery of a hidden will drives a rejected heir to the edge of madness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;As an old squire approaches his death, he vacillates over how to leave his substantial property: to the neice he loves, or to the nephew he despises? A will is made in favor of the nephew, following the squire’s sense of duty. But during the young man’s visit to the estate, the squire’s revulsion makes him produce a new will in favor of his neice. After his funeral, the earlier will is found among his papers, but not the later one. Cousin Henry takes his place as the new squire under a cloud—and worse, as it transpires that, unknown to anyone else, he alone knows where the later will is hidden. Too weak to destroy the will, and too greedy to disclose its existence, he descends into misery as the lawyers close in.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; later fiction is marked by his keen interest in the psychology of his characters, what Michael Sadleir called his “novels of the mind.” In &lt;em&gt;Cousin Henry&lt;/em&gt;, the plot is simple, but the psychological is paramount. The inner-life of each of the leading characters is laid bare under Trollope’s pen: not only the unfortunate Cousin Henry, but equally his proud and imperious rival, Isabel, and the indefatigable Carmarthen lawyer, Mr. Apjohn.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24103</dc:source>
 		<dc:source>https://archive.org/details/cousinhenrynovel00troluoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Cousin_Henry</meta>
@@ -55,10 +55,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Jean-Baptiste-Camille Corot</dc:contributor>
+		<meta property="file-as" refines="#artist">Corot, Jean-Baptiste-Camille</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50020661</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Joseph E. Loewenstein</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Loewenstein, Joseph E.</meta>
